@@ -1,6 +1,5 @@
 import dispositvo.iphone.Iphone;
 import dispositvo.ipod.Ipod;
-
 import dispositvo.safari.Safari;
 import dispositvo.telefone.Telefone;
 
